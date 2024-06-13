@@ -1,1 +1,2 @@
-1panel/maxkb:latest
+eosphorosai/dbgpt:latest
+mysql/mysql-server
